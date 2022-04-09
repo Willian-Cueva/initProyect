@@ -2,7 +2,8 @@
 Sirve para:
   > Iniciar el sercicio de Apache y Mysql.
   > Abrir VScode con el proyecto que se esté trabajando ese momento
-  > Ejecutar el entorno de desarrollo "npm run dev"
+  > Ejecutar el entorno de desarrollo "npm run dev".
+  > Todo solo con un click.
 
 Instrucciones:
  1) Clonar el repositorio o descomprimirlo en disco local c:
