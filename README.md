@@ -18,4 +18,4 @@ Notas:
   - Si utiliza Xampp, no deberá realizar ninguna configuracion. (Orientado para xammp - aunque haciendo un par de modificaciones puede ejecutar normalmente en caso de haber instalado manuelmente los servivios)
   - Agregar mysql a las variables de entorno del sistema en PaTH.
   - Para abrir los archivos .ps1 directamente, deberá abrir dichos archivos con Powershell.
-  - En caso que no permita ejecutar el script deberá ejecutar en la tarminal de PowerShell el siguiente comando "Set-ExecutionPolicy RemotedSigned" - sin las comillas
+  - En caso que no permita ejecutar el script deberá ejecutar en la tarminal de PowerShell el siguiente comando "Set-ExecutionPolicy RemotedSigned" - sin las comillas esto para otorgar permisos de ejecución de scripts
